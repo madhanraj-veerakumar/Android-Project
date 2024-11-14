@@ -28,6 +28,11 @@ Here are some screenshots of the application to showcase the app's UI and featur
 4. **Expense History View**  
    ![Expense History](assets/screenshots/expense_history.png)
 
+
+For more screenshots and a demo, check out the project on
+
+[Google Drive](https://drive.google.com/drive/folders/1iq0oMk3CFskEp76yJm5M3wLT0hSYs7S3?usp=sharing).
+
 ## Installation Instructions
 
 Follow these steps to set up the project on your local machine.
