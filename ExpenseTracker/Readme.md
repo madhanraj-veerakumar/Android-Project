@@ -46,4 +46,4 @@ To get started with this project, you'll need the following tools installed on y
 To clone this project to your local machine, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/madhanraj-veerakumar/Android-Project/edit/main/ExpenseTracker
+git clone https://github.com/madhanraj-veerakumar/Android-Project.git
