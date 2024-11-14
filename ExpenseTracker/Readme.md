@@ -28,10 +28,9 @@ Here are some screenshots of the application to showcase the app's UI and featur
 4. **Expense History View**  
    ![Expense History](assets/screenshots/expense_history.png)
 
-```bash
-# Demo Link
-# Visit the following link for a video demo and additional screenshots:
-https://drive.google.com/drive/folders/1iq0oMk3CFskEp76yJm5M3wLT0hSYs7S3?usp=sharing
+## Demo
+For a video demo check out the project on 
+[Google Drive](https://drive.google.com/drive/folders/1iq0oMk3CFskEp76yJm5M3wLT0hSYs7S3?usp=sharing).
 
 ## Installation Instructions
 
