@@ -8,11 +8,9 @@ The core objective of this application is to provide users with an intuitive too
 
 ### Key Features
 - **Add Item Expenses:** Users can easily add expenses for each item they purchase, specifying item names, amounts, and categories.
-- **Categorize Expenses:** Each expense can be assigned to a category (e.g., Food, Transportation, Entertainment) to allow for more granular tracking.
-- **View Expense Summary:** The app provides a visual summary of the user's spending patterns over time, including individual items and their associated costs.
-- **Date Filtering:** Filter your expenses by specific time periods (daily, weekly, monthly) for more detailed insights. *(This feature is currently under development.)*
-- **Expense History:** View a complete list of your past expenses, including item names, amounts, and dates.
-- **Charts & Visualizations:** Visualize your spending patterns over time through charts and graphs, powered by MPAndroidChart.
+- **Set Monthly Limit:** The app allows users to set a monthly spending limit, helping them manage their budget throughout the month.
+- **Date Filtering:** Filter expenses by specific time periods (daily, weekly, monthly) for more detailed insights. *(This feature is currently under development.)*
+- **Expense History:** View a complete list of past expenses, including item names, amounts, and dates.
 
 ## Screenshots
 
@@ -24,8 +22,8 @@ Here are some screenshots of the application to showcase the app's UI and featur
 2. **Add Item Expense Screen**  
    ![Add Item Expense](assets/screenshots/add_item_expense.png)
 
-3. **Expense Summary View**  
-   ![Expense Summary](assets/screenshots/expense_summary.png)
+3. **Set Monthly Limit**  
+   ![Expense Summary](assets/screenshots/monthly_limit.png)
 
 4. **Expense History View**  
    ![Expense History](assets/screenshots/expense_history.png)
@@ -48,4 +46,4 @@ To get started with this project, you'll need the following tools installed on y
 To clone this project to your local machine, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/madhanzoners/Android-Project/tree/main/ExpenseTracker
+git clone https://github.com/madhanraj-veerakumar/Android-Project/edit/main/ExpenseTracker
