@@ -31,7 +31,7 @@ Here are some screenshots of the application to showcase the app's UI and featur
 
 For more screenshots and a demo, check out the project on
 
-[Google Drive](https://drive.google.com/drive/folders/1iq0oMk3CFskEp76yJm5M3wLT0hSYs7S3?usp=sharing).
+[Click Me](https://drive.google.com/drive/folders/1iq0oMk3CFskEp76yJm5M3wLT0hSYs7S3?usp=sharing).
 
 ## Installation Instructions
 
