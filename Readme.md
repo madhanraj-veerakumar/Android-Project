@@ -1,4 +1,4 @@
-#ndroid Apps Repository
+#Android Apps Repository
 
 This repository contains Android app project. This project is a standalone app with its own functionality, purpose, and setup instructions.
 
