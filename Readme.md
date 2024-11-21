@@ -1,10 +1,10 @@
-# Multi-Project Android Apps Repository
+#ndroid Apps Repository
 
-This repository contains multiple Android app projects. Each project is a standalone app with its own functionality, purpose, and setup instructions.
+This repository contains Android app project. This project is a standalone app with its own functionality, purpose, and setup instructions.
 
 ## Overview
 
-The repository includes a variety of Android applications, each designed to address different needs and use cases. These projects serve as individual applications that can be run, modified, and extended independently of each other.
+The repository include Android application,designed to address different needs and use cases. 
 
 ### Current Projects in this Repository
 
